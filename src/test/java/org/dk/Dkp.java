@@ -13,4 +13,11 @@ private void Parkavi() {
 System.out.println();
 
 }
+private void method1() {
+System.out.println();}
+private void method2() {
+System.out.println();
+
+}
+
 }
